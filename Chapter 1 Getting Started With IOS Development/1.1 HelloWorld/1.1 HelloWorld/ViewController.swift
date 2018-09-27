@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Mencetak Text pada console
         print("Sukses Membuat Aplikasi IOS Pertama")
+        
+        let
     }
 
 
